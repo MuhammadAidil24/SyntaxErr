@@ -85,7 +85,17 @@ Frontend
 
 ## Screenshot
 
-Tambahkan screenshot aplikasi di sini.
+Home :
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/bb07b197-c3f4-4324-bcc7-2cfc337d6a8f" />
+
+Result: 
+<img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/8a12609b-af18-49c2-b338-1cf62cc10c94" />
+
+<img width="1360" height="595" alt="image" src="https://github.com/user-attachments/assets/97118996-e6f3-424d-a5e2-a0ea91272cd8" />
+
+Trancing Langsmith :
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/d9a35c11-e659-4648-aade-dffde59b5bd8" />
+
 
 ---
 
