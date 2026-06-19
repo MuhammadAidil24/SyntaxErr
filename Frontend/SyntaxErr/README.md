@@ -104,6 +104,11 @@ Trancing Langsmith :
 
 <img width="1365" height="681" alt="image" src="https://github.com/user-attachments/assets/75ac8521-e7d8-4e89-8e06-dfceb8b43e57" />
 
+Direktori Project :
+
+<img width="280" height="560" alt="image" src="https://github.com/user-attachments/assets/b769a9bf-e53e-4cd7-afb6-e2baed8cf4e0" />
+
+
 ---
 
 ## Cara Menjalankan
