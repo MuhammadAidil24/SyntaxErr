@@ -102,6 +102,7 @@ Trancing Langsmith :
 ## Cara Menjalankan
 
 ### Backend
+silahkan isi bagian .env.exanple untuk API dari model dan Langsmith nya.
 
 ```bash
 pip install -r requirements.txt
